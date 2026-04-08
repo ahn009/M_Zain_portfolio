@@ -59,7 +59,7 @@ export default function Footer({
       <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
         {/* CTA Banner */}
         <motion.div
-          className="relative -mt-16 mb-12 rounded-2xl border border-surface-border bg-surface-elevated p-6 sm:p-8 text-center shadow-xl shadow-black/5 overflow-hidden"
+          className="relative mt-12 mb-12 rounded-2xl border border-surface-border bg-surface-elevated p-6 sm:p-8 text-center shadow-xl shadow-black/5 overflow-hidden"
           initial={{ opacity: 0, y: 30 }}
           whileInView={{ opacity: 1, y: 0 }}
           viewport={{ once: true }}
