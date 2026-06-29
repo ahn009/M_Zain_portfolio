@@ -22,11 +22,11 @@ const PAUSE_AFTER_TYPING = 2000;
 const PAUSE_BEFORE_TYPING = 500;
 
 const roles = [
-  "Assistant Manager",
-  "Operations Professional",
-  "Team Leader",
-  "Customer Service Expert",
-  "Inventory Specialist",
+  "F&B Operations Manager",
+  "Shift Management Lead",
+  "Production Floor Supervisor",
+  "Quality Control Coordinator",
+  "Supply Chain & Inventory Controller",
 ];
 
 function useTypingEffect() {
@@ -122,9 +122,9 @@ const stats = [
     icon: "📈",
   },
   {
-    value: "3",
+    value: "4",
     suffix: "",
-    label: "Internal Promotions",
+    label: "Merit-Based Promotions",
     icon: "🚀",
   },
   {
@@ -393,10 +393,12 @@ export default function Hero({ onNavigate }: { onNavigate?: (page: string) => vo
             custom={3}
           >
             <p className="text-base leading-relaxed text-text-secondary sm:text-lg">
-              A dedicated operations professional with 1.5 years of progressive
-              experience, rising from entry-level to Assistant Manager through
-              consistent excellence. Specialized in store operations, inventory
-              management, and team leadership in the food and dairy sector.
+              Results-driven F&amp;B Operations &amp; Production Management
+              professional with 1.5 years of progressive experience, earning 4
+              merit-based promotions from entry-level to Assistant Manager.
+              Specialized in shift management, SOP development, quality control,
+              inventory management, and production workflow optimization in the
+              food manufacturing sector.
             </p>
           </motion.div>
 

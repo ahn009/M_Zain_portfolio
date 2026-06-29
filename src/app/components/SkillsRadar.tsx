@@ -9,7 +9,7 @@ import { motion, useInView } from "framer-motion";
 const skills = [
   { label: "Operations", value: 92, color: "#10b981" },
   { label: "Leadership", value: 88, color: "#34d399" },
-  { label: "Customer Service", value: 95, color: "#d4af37" },
+  { label: "Service Excellence", value: 95, color: "#d4af37" },
   { label: "Inventory", value: 85, color: "#10b981" },
   { label: "Technical", value: 72, color: "#34d399" },
   { label: "Digital Marketing", value: 68, color: "#d4af37" },

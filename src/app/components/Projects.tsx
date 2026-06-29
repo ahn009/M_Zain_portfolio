@@ -100,7 +100,7 @@ const achievements: Achievement[] = [
     accentColor: "#10b981",
     details: {
       metrics: [
-        "3 promotions in 16 months",
+        "4 promotions in 18 months",
         "Significant operational cost reductions",
         "Consistent revenue growth contribution",
       ],

@@ -41,17 +41,17 @@ interface SkillColumn {
 
 const skillColumns: SkillColumn[] = [
   {
-    title: "Operations & Retail",
+    title: "Operations & Production",
     icon: Store,
     color: "emerald",
     skills: [
-      { name: "Store Operations", icon: Store },
-      { name: "Customer Service", icon: Users },
-      { name: "Cash Handling", icon: HandCoins },
+      { name: "F&B Operations Management", icon: Store },
+      { name: "Quality Assurance & Service Excellence", icon: Users },
+      { name: "Revenue & Financial Reconciliation", icon: HandCoins },
       { name: "Inventory Management", icon: PackageCheck },
       { name: "Team Leadership", icon: UserCheck },
-      { name: "Quality Assurance", icon: ShieldCheck },
-      { name: "Staff Scheduling", icon: CalendarClock },
+      { name: "Quality Control & Compliance", icon: ShieldCheck },
+      { name: "Shift & Workforce Scheduling", icon: CalendarClock },
     ],
   },
   {

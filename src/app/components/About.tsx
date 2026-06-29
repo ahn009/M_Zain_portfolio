@@ -81,11 +81,13 @@ function ProfessionalSummary() {
           <h3 className="text-lg font-semibold text-text-primary">Professional Summary</h3>
         </div>
         <p className="text-text-secondary leading-relaxed text-sm md:text-base">
-          Dedicated and hardworking Retail &amp; Operations Professional with
-          1.5 years of progressive hands-on experience in the food and dairy
-          industry. Demonstrated rapid career advancement from entry-level
-          staff to Assistant Manager through consistent performance,
-          reliability, and strong leadership capabilities.
+          Results-driven F&amp;B Operations &amp; Production Management
+          Professional with 1.5 years of progressive hands-on experience in the
+          food manufacturing and production sector. Earned 4 merit-based
+          promotions from Operations Trainee to Assistant Manager in 18 months
+          through consistent performance, operational excellence, and strong
+          leadership capabilities across shift management, quality control, and
+          SOP implementation.
         </p>
       </div>
     </FadeInUp>
@@ -235,7 +237,7 @@ function KeyStrengths() {
     'Strong work ethic and professional commitment',
     'Proven track record of merit-based promotions',
     'Excellent pressure management and multitasking',
-    'Comprehensive retail operations knowledge',
+    'Comprehensive F&B production operations & quality control knowledge',
     'Strong interpersonal and leadership skills',
   ]
 
@@ -322,7 +324,7 @@ function FunFacts() {
 
   const facts = [
     { icon: MapPin, value: 'Karachi, Pakistan', label: 'Based in', color: 'text-emerald-400' },
-    { icon: Calendar, value: '16 Months', label: 'From Entry to Manager', color: 'text-amber-400' },
+    { icon: Calendar, value: '18 Months', label: '4 Promotions to Manager', color: 'text-amber-400' },
     { icon: Users, value: '10+', label: 'Team Members Mentored', color: 'text-emerald-400' },
     { icon: Coffee, value: 'Daily', label: 'First One In, Last One Out', color: 'text-amber-400' },
   ]

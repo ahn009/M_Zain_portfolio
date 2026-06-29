@@ -12,7 +12,7 @@ const cards = [
     icon: TrendingUp,
     title: "Rapid Growth",
     description:
-      "3 promotions in 16 months — a track record of accelerated career development through exceptional performance.",
+      "4 merit-based promotions in 18 months — a track record of accelerated career development through exceptional operational performance.",
     gradientFrom: "from-emerald-500",
     gradientTo: "to-emerald-400",
     iconBg: "bg-emerald-500/10",
@@ -24,7 +24,7 @@ const cards = [
     icon: Settings,
     title: "Operations Excellence",
     description:
-      "Comprehensive hands-on experience in store operations, inventory management, and quality assurance across multiple departments.",
+      "Comprehensive hands-on experience in F&B production operations, shift management, inventory control, and quality assurance across multiple operational departments.",
     gradientFrom: "from-amber-500",
     gradientTo: "to-amber-400",
     iconBg: "bg-amber-500/10",
